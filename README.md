@@ -16,9 +16,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Sanchayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchayan7432&show_icons=true&theme=radical)
+![Sanchayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchayan7432&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan7432&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan7432&layout=compact&hide_border=true&theme=radical)
 
 ---
 
@@ -51,7 +51,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchayan-ghosh-0b735024a/)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-green?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sanchayan-Ghosh-3?ev=hdr_xprf)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ig6NcugAAAAJ&hl=en)
-[![Email](sanchayan.ghosh2022@uem.edu.in)  
+[![Gmail](sanchayan.ghosh2022@uem.edu.in)  
 
 ---
 

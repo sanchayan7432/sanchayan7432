@@ -2,6 +2,7 @@
 
 🎓 Final-year B.Tech student passionate about **Artificial Intelligence, Machine Learning, and Healthcare Technology**  
 🔭 Former **Research Intern** at **MIST lab, IIT Bhilai**
+
 💡 Creator of innovative projects like **WannaCode**, **Virtual-Doctor**, **Healitics**, and **TotalShield**  
 🌍 Exploring **Prompt Engineering, Data Science, Encryption, Automation, and Open-Source Collaboration**  
 

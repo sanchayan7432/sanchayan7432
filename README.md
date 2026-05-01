@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Sanchayan Ghosh
 
 🎓 Final-year B.Tech student passionate about **Artificial Intelligence, Machine Learning, and Healthcare Technology**  
+🔭 Former **Research Intern** at **MIST lab, IIT Bhilai**
 💡 Creator of innovative projects like **WannaCode**, **Virtual-Doctor**, **Healitics**, and **TotalShield**  
-🌍 Exploring **Prompt Engineering, Data Science, Automation, and Open-Source Collaboration**  
+🌍 Exploring **Prompt Engineering, Data Science, Encryption, Automation, and Open-Source Collaboration**  
 
 ---
 
 ## 📌 About Me
 - 🔭 Currently working on AI-driven healthcare solutions and defense models against adversarial attacks.  
-- 🌱 Learning advanced **Python**, **C programming**, and **Data Analytics**.  
-- 👯 Looking to collaborate on **AI + Healthcare projects** and **open-source contributions**.  
+- 🌱 Learning advanced **Python**, **Automation**, **Data Analytics** and Prompt Engineering.  
+- 👯 Looking to collaborate on **AI + Healthcare projects**, **Prompt Engineering** and **open-source contributions**.  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh-0b735024a/) or [ResearchGate](https://www.researchgate.net/profile/Sanchayan-Ghosh-3?ev=hdr_xprf).  
-- ⚡ Fun fact: I love blending **AI + Healthcare** to solve real-world problems.  
+- ⚡ Fun fact: I love blending **AI and Prompt Engines** to solve real-world problems.  
 
 ---
 <!--
@@ -56,7 +57,7 @@ Email me at sanchayan.ghosh2022@uem.edu.in
 
 ## 🛠️ Skills
 - **Programming**: Python, C, SQL, Data Analytics  
-- **AI/ML**: Machine Learning, AI Security  
+- **AI/ML**: Machine Learning, LLM Security  
 - **Tools**: GitHub, VS Code, ResearchGate, Zenodo  
 - **Domains**: Healthcare Technology, Automation, Prompt Engineering, Open-Source Collaboration  
 
@@ -81,13 +82,20 @@ Email me at sanchayan.ghosh2022@uem.edu.in
 
 ---
 
-## 🧩 Dynamic Updates
-This README auto-updates with:
-- ✅ Latest GitHub stats  
-- ✅ Contribution streaks  
-- ✅ Activity graph  
-- ✅ Trophies and achievements  
+## 🧩 Research ublication
+![ZENODO DOI](https://zenodo.org/records/19750397)
 
+![OpenAIRE Explore](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.19750397)
+
+![IJSET](https://www.ijset.in/totalshield-a-multi-layered-defense-architecture-for-robust-protection-against-prompt-leaking-attacks-on-large-language-models/)
+
+![ResearchGATE](https://www.researchgate.net/spotlight/69f34aecbe8357fef0021f91)
+
+## 🧩 Research citation
+```
+[APA]
+Sanchayan Ghosh. (2026). TotalShield: A Multi-Layered Defense Architecture For Robust Protection Against Prompt-Leaking Attacks On Large Language Models. International Journal of Science, Engineering and Technology, 14(2). https://doi.org/10.5281/zenodo.19750397
+```
 ---
 
 ## ✨ Closing Note

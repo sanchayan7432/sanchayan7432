@@ -56,9 +56,9 @@ Email me at sanchayan.ghosh2022@uem.edu.in
 
 ## 🛠️ Skills
 - **Programming**: Python, C, DBMS, Data Analytics  
-- **AI/ML**: Machine Learning, Prompt Engineering, AI Security  
+- **AI/ML**: Machine Learning, AI Security  
 - **Tools**: GitHub, VS Code, ResearchGate, Zenodo  
-- **Domains**: Healthcare Technology, Automation, Open-Source Collaboration  
+- **Domains**: Healthcare Technology, Automation, Prompt Engineering, Open-Source Collaboration  
 
 ---
 

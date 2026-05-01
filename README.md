@@ -16,9 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sanchayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchayan7432&show_icons=true&count_private=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan7432&layout=compact&hide_border=true&theme=radical)
+![Stats](./profile/stats.svg)
 
 ---
 

@@ -49,8 +49,9 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchayan-ghosh)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sanchayan-Ghosh)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sanchayan-Ghosh-3?ev=hdr_xprf)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ig6NcugAAAAJ&hl=en)
+
 
 ---
 

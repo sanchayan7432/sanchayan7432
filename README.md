@@ -10,7 +10,7 @@
 - 🔭 Currently working on AI-driven healthcare solutions and defense models against adversarial attacks.  
 - 🌱 Learning advanced **Python**, **C programming**, and **Data Analytics**.  
 - 👯 Looking to collaborate on **AI + Healthcare projects** and **open-source contributions**.  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh) or [ResearchGate](https://www.researchgate.net/profile/Sanchayan-Ghosh).  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh-0b735024a/) or [ResearchGate](https://www.researchgate.net/profile/Sanchayan-Ghosh-3?ev=hdr_xprf).  
 - ⚡ Fun fact: I love blending **AI + Healthcare** to solve real-world problems.  
 
 ---
@@ -37,21 +37,21 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Most Advanceded Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **WannaCode** | AI-powered coding assistant | Python, ML | [Repo](https://github.com/sanchayan7432/WannaCode) |
-| **Virtual-Doctor** | Healthcare chatbot for diagnosis | Python, NLP | [Repo](https://github.com/sanchayan7432/Virtual-Doctor) |
-| **Healitics** | Health analytics platform | Python, Data Science | [Repo](https://github.com/sanchayan7432/Healitics) |
-| **TotalShield** | Defense model against adversarial attacks | Python, AI Security | [Repo](https://github.com/sanchayan7432/TotalShield) |
+| **Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs | Attack Defense Tradeoffs in Prompt Engineering | Python, Prompt Engineering and Security | [Repo](https://github.com/sanchayan7432/Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs.git) |
+| **HAQRE** | Quantum ResilientCoding | Python, Encryption | [Repo](https://github.com/sanchayan7432/HyperLayer-Adaptive-Quantum-Resilient-Encryption---HAQRE.git) |
+| **TotalShield** | Defense Prompt Engines against adversarial attacks | Python, Prompt Engineering and Security | [Repo](https://github.com/sanchayan7432/TotalShield) |
+| **WannaCode** | AI-powered coding assistant | Python, ML, Prompt Engineering | [Repo](https://github.com/sanchayan7432/WannaCode) |
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchayan-ghosh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchayan-ghosh-0b735024a/)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-green?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sanchayan-Ghosh-3?ev=hdr_xprf)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ig6NcugAAAAJ&hl=en)
-
+[![Email](sanchayan.ghosh2022@uem.edu.in)  
 
 ---
 

@@ -1,16 +1,95 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanchayan Ghosh
 
-<!--
-**sanchayan7432/sanchayan7432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student passionate about **Artificial Intelligence, Machine Learning, and Healthcare Technology**  
+💡 Creator of innovative projects like **WannaCode**, **Virtual-Doctor**, **Healitics**, and **TotalShield**  
+🌍 Exploring **Prompt Engineering, Data Science, Automation, and Open-Source Collaboration**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🔭 Currently working on AI-driven healthcare solutions and defense models against adversarial attacks.  
+- 🌱 Learning advanced **Python**, **C programming**, and **Data Analytics**.  
+- 👯 Looking to collaborate on **AI + Healthcare projects** and **open-source contributions**.  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh) or [ResearchGate](https://www.researchgate.net/profile/Sanchayan-Ghosh).  
+- ⚡ Fun fact: I love blending **AI + Healthcare** to solve real-world problems.  
+
+---
+
+## 📊 GitHub Stats
+![Sanchayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchayan7432&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan7432&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchayan7432&theme=radical)
+
+---
+
+## 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanchayan7432&theme=radical&margin-w=15&margin-h=15)
+
+---
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchayan7432&theme=redical)
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **WannaCode** | AI-powered coding assistant | Python, ML | [Repo](https://github.com/sanchayan7432/WannaCode) |
+| **Virtual-Doctor** | Healthcare chatbot for diagnosis | Python, NLP | [Repo](https://github.com/sanchayan7432/Virtual-Doctor) |
+| **Healitics** | Health analytics platform | Python, Data Science | [Repo](https://github.com/sanchayan7432/Healitics) |
+| **TotalShield** | Defense model against adversarial attacks | Python, AI Security | [Repo](https://github.com/sanchayan7432/TotalShield) |
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchayan-ghosh)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sanchayan-Ghosh)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/)  
+
+---
+
+## 🛠️ Skills
+- **Programming**: Python, C, DBMS, Data Analytics  
+- **AI/ML**: Machine Learning, Prompt Engineering, AI Security  
+- **Tools**: GitHub, VS Code, ResearchGate, Zenodo  
+- **Domains**: Healthcare Technology, Automation, Open-Source Collaboration  
+
+---
+
+## 📜 Documentation & Recognition
+- 📄 Published papers in **IJSET** and archived on **Zenodo**.  
+- 🔗 Linked publications with **DOI** for citation tracking.  
+- 🏅 Actively managing visibility on **ResearchGate** and **Google Scholar**.  
+
+---
+
+## ⚡ Fun Section
+- 🎬 Favorite Movies: Titanic, Twilight Saga, Cobra Kai, Westworld  
+- 🚆 Interests: Indian Railways, Vande Bharat Express, Sealdah Station  
+- 📺 TV Shows: Game of Thrones, Stranger Things, Peaky Blinders, K-Drama  
+
+---
+
+## 📌 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=sanchayan7432&color=blue&style=flat)
+
+---
+
+## 🧩 Dynamic Updates
+This README auto-updates with:
+- ✅ Latest GitHub stats  
+- ✅ Contribution streaks  
+- ✅ Activity graph  
+- ✅ Trophies and achievements  
+
+---
+
+## ✨ Closing Note
+Thanks for visiting my profile!  
+⭐ Feel free to star my repositories if you find them useful.  

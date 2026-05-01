@@ -14,12 +14,12 @@
 - ⚡ Fun fact: I love blending **AI + Healthcare** to solve real-world problems.  
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 ![Stats](./profile/stats.svg)
 
 ---
-
+-->
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchayan7432&theme=radical)
 

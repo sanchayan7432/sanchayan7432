@@ -40,7 +40,7 @@
 ## 📂 Most Advanceded Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs | Attack Defense Tradeoffs in Prompt Engineering | Python, Prompt Engineering and Security | [Repo](https://github.com/sanchayan7432/Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs.git) |
+| **Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs** | Attack Defense Tradeoffs in Prompt Engineering | Python, Prompt Engineering and Security | [Repo](https://github.com/sanchayan7432/Pinpointing-Jailbreaking-Attack-Defense-Tradeoffs.git) |
 | **HAQRE** | Quantum ResilientCoding | Python, Encryption | [Repo](https://github.com/sanchayan7432/HyperLayer-Adaptive-Quantum-Resilient-Encryption---HAQRE.git) |
 | **TotalShield** | Defense Prompt Engines against adversarial attacks | Python, Prompt Engineering and Security | [Repo](https://github.com/sanchayan7432/TotalShield) |
 | **WannaCode** | AI-powered coding assistant | Python, ML, Prompt Engineering | [Repo](https://github.com/sanchayan7432/WannaCode) |

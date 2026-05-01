@@ -83,15 +83,16 @@ Email me at sanchayan.ghosh2022@uem.edu.in
 ---
 
 ## 🧩 Research ublication
-![ZENODO DOI](https://zenodo.org/records/19750397)
+ZENODO DOI: https://zenodo.org/records/19750397
 
-![OpenAIRE Explore](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.19750397)
+OpenAIRE Explore: https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.19750397
 
-![IJSET](https://www.ijset.in/totalshield-a-multi-layered-defense-architecture-for-robust-protection-against-prompt-leaking-attacks-on-large-language-models/)
+IJSET: https://www.ijset.in/totalshield-a-multi-layered-defense-architecture-for-robust-protection-against-prompt-leaking-attacks-on-large-language-models/
 
-![ResearchGATE](https://www.researchgate.net/spotlight/69f34aecbe8357fef0021f91)
+ResearchGATE: https://www.researchgate.net/spotlight/69f34aecbe8357fef0021f91
+---
 
-## 🧩 Research citation
+## 🧩 Recent research citation
 ```
 [APA]
 Sanchayan Ghosh. (2026). TotalShield: A Multi-Layered Defense Architecture For Robust Protection Against Prompt-Leaking Attacks On Large Language Models. International Journal of Science, Engineering and Technology, 14(2). https://doi.org/10.5281/zenodo.19750397
